@@ -31,7 +31,7 @@ body{padding: 0px;margin: 0px;}
 .tariffs h3{color: #ffc61a;text-align: center;font-weight: bold;padding-top: 40px;}
 .tariffs h1{color: black;text-align: center;font-weight: bold;}
 
-.tariffs .car_3{background-color:#f5f4f2; margin-top: 150px;height: 320px;}
+.tariffs .car_3{background-color:#f5f4f2; margin-top: 150px;height: 320px; margin-left: 20px;margin-right: 20px;margin-bottom: 50px;}
 .tariffs .car_3 img{margin-top: -110px;}
 .tariffs .car_3:hover{background-color: #ffc61a}
 .tariffs .car_3:hover > h1{color: black;}
@@ -41,3 +41,35 @@ body{padding: 0px;margin: 0px;}
 .tariffs .car_3 h1{color: #ffc61a;margin-bottom: 20px;}
 .tariffs .car_3 a{background-color: #ffc61a; color: black;border-radius: 6px; text-decoration: none; margin-left: 120px; padding: 7px 7px;}
 
+.choose{background-image: url('../img/choose.png');height: 500px;width: 100%;background-size: cover;}
+
+.choose h3{font-weight: bold;color: #ffc61a;text-transform: uppercase;margin-top:20px;text-align: center;}
+.choose h1{font-weight: bold;color: white;text-transform: uppercase; margin-bottom: 50px;text-align: center;}
+
+.choose .ell {padding-bottom: 80px;}
+.choose .ell .ellips img{margin-left: 80px;}
+.choose .ell .ellips h5{color: #ffc61a;text-transform: uppercase;font-weight: bold;}
+.choose .ell .ellips p{color: white;margin-right: 7px;}
+.choose .ell a{background-color:  #ffc61a;text-align: center; margin: 0px auto;display: block; padding:7px 7px;border-radius: 6px;text-decoration: none;color: black;font-weight: bold;}
+
+
+.Mobile{background-color: white;height: auto;}
+.Mobile h4{text-align: center;margin-top: 50px;color: #ffc61a;}
+.Mobile h3{text-align: center;font-weight: bold;text-transform: uppercase;}
+.Mobile .uni{margin-top: 50px;}
+.Mobile .uni h5{font-weight: bolder;margin-left: 110px;}
+.Mobile .uni p{margin-left: 110px;margin-top: 10px;}
+.Mobile .uni .ex{margin-left: 100px;margin-top:20px; }
+.Mobile .uni .ex img{height: 50px;margin-left: 10px;}
+.Mobile img{margin-left: 70px; margin-top: 50px;}
+
+
+
+.testimonial{background-image: url(../img/backround-3.png);height: auto;}
+.testimonial h3{text-align: center; color: #ffc61a;text-transform: uppercase;padding-top: 60px;}
+.testimonial h1{text-align: center; color: white;}
+.testimonial .part{margin-left: 30px;background-color: black;border-radius: 30px;height: 200px;margin-bottom: 150px;}
+.testimonial .part p{color: white; margin-left: 40px;margin-top: 90px;padding-top: 20px;}
+.testimonial .part img{margin-left: 40px;padding: 0px 0px;}
+.testimonial .part h4{color: #ffc61a;text-transform: uppercase; padding: 0px 0px;}
+.testimonial .part h6{color: white;text-transform: uppercase;}
