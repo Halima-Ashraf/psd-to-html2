@@ -31,7 +31,7 @@ body{padding: 0px;margin: 0px;}
 .tariffs h3{color: #ffc61a;text-align: center;font-weight: bold;padding-top: 40px;}
 .tariffs h1{color: black;text-align: center;font-weight: bold;}
 
-.tariffs .car_3{background-color:#f5f4f2; margin-top: 150px;height: 320px; margin-left: 20px;margin-right: 20px;margin-bottom: 50px;}
+.tariffs .car_3{background-color:#f5f4f2; margin-top: 150px;height: 320px; margin-left: 10px;margin-bottom: 50px;}
 .tariffs .car_3 img{margin-top: -110px;}
 .tariffs .car_3:hover{background-color: #ffc61a}
 .tariffs .car_3:hover > h1{color: black;}
@@ -43,7 +43,7 @@ body{padding: 0px;margin: 0px;}
 
 .choose{background-image: url('../img/choose.png');height: 500px;width: 100%;background-size: cover;}
 
-.choose h3{font-weight: bold;color: #ffc61a;text-transform: uppercase;margin-top:20px;text-align: center;}
+.choose h3{font-weight: bold;color: #ffc61a;text-transform: uppercase;padding-top:20px;text-align: center;}
 .choose h1{font-weight: bold;color: white;text-transform: uppercase; margin-bottom: 50px;text-align: center;}
 
 .choose .ell {padding-bottom: 80px;}
@@ -73,3 +73,23 @@ body{padding: 0px;margin: 0px;}
 .testimonial .part img{margin-left: 40px;padding: 0px 0px;}
 .testimonial .part h4{color: #ffc61a;text-transform: uppercase; padding: 0px 0px;}
 .testimonial .part h6{color: white;text-transform: uppercase;}
+
+
+.rent{background-color: #ffc61a;height: 200px;}
+.rent h3{text-align: center;text-transform: uppercase;font-weight: bold;margin-top: 1px;padding-top: 40px;}
+.rent h1{text-align: center;font-weight: bold}
+
+
+.end{background-image: url(../img/backround-4.png);height: 400px;}
+.end h5{color: white;text-transform: uppercase;margin-top: 40px;}
+.end p{color: white;margin-top: 40px;}
+
+.end .log{}
+.end .log ul{margin:0px; padding: 0px;}
+.end .log ul li{display: inline-block;list-style-type: none;margin-left: 2%;}
+.end .log ul li a{color: #ffc61a;}
+
+
+.end .log_2{margin-left: 30px;}
+.end h6{color: #ffc61a;}
+.end .log_2 a{color: white;}
